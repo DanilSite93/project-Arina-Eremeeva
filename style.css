@@ -11,6 +11,9 @@ header{
     padding: 70px;
     
 }
+.visit{
+  font-size: 70px;
+}
 header h1 {
     font-size: 50px;
     margin:20px 0 0;
@@ -93,4 +96,7 @@ footer{
 .taxt{
     font-size: 25px;
     font-style: italic
+}
+.about_me{
+  color:rgb(2, 2, 31);
 }
